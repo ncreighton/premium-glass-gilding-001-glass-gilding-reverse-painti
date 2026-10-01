@@ -1,0 +1,2 @@
+# premium-glass-gilding-001-glass-gilding-reverse-painti
+The traditional-signwriting tool you'd build yourself — if you had the time.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Glass Gilding &amp; Reverse Painting — fully configured and ready to use - Pre-built databases with
